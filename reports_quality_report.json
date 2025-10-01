@@ -1,0 +1,13 @@
+{
+  "summary": {
+    "total_records": 250,
+    "collection_success_rate": 0.156,
+    "overall_quality_score": 0.999
+  },
+  "completeness": 1.0,
+  "dup_share": 0.004,
+  "consistency_popularity_0_100": 1.0,
+  "recommendations": [
+    "Quality acceptable; scale to more regions."
+  ]
+}

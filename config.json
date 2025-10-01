@@ -1,0 +1,8 @@
+{
+  "regions": ["US","GB","FR","JP","BR"],
+  "playlists": ["Top 50 - %REGION%"], 
+  "max_tracks_per_playlist": 50,
+  "base_delay": 1.0,
+  "output_dir": "data",
+  "fallback": { "use_kaggle": true, "path": "data/raw/kaggle_spotify.csv" }
+}
